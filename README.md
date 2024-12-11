@@ -17,14 +17,14 @@
 
 ## 0. 목차
 
-1. [프로젝트 소개](#🎧-1-프로젝트-소개)
-2. [팀원 소개](#🏃-2-팀원-소개)
-3. [역할 분담](#👋-3-역할-분담)
-4. [개발 일정](#📅-4-개발-일정)
-5. [기술 스택](#📚-5-기술-스택)
-6. [Project Architecture](#📂-6-project-architecture)
-7. [기능 소개](#▶️-7-기능-소개)
-8. [API 명세서](#🌠-8-api-명세서)
+1. [프로젝트 소개](#1-프로젝트-소개)
+2. [팀원 소개](#2-팀원-소개)
+3. [역할 분담](#3-역할-분담)
+4. [개발 일정](#4-개발-일정)
+5. [기술 스택](#5-기술-스택)
+6. [Project Architecture](#6-project-architecture)
+7. [기능 소개](#7-기능-소개)
+8. [API 명세서](#8-api-명세서)
 
 ---
 
@@ -42,50 +42,50 @@
 
 ## 🏃 2. 팀원 소개
 
-|       고준수        |       신영광        |     현태훈      |     안송희      |     유호성      |
-|:----------------:|:----------------:|:------------:|:------------:|:------------:|
-| ![팀원1 사진](이미지경로) | ![팀원2 사진](이미지경로) | ![팀원2 사진](이미지경로) | ![팀원2 사진](이미지경로) | ![팀원2 사진](이미지경로) |
-|     깃허브 아이디      | 깃허브 아이디    | 깃허브 아이디 | 깃허브 아이디 | 깃허브 아이디 |
+|                                                         고준수                                                          |                                                         신영광                                                          |                                                         현태훈                                                          |                                                         안송희                                                          |                                                         유호성                                                          |
+|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://github.com/user-attachments/assets/5f9baf9d-e071-4561-a732-5fe9e7f48ce4" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/283a36ad-f231-4550-b2a6-01acdfb84e58" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/f1095182-ebe2-4dfc-a2d4-36015ba179f0" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/004fc4c5-eae0-49ce-b3e2-0b41b6ade585" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/7017ad0b-7e21-4ba6-9f6e-585952dc8ba6" height="150" width="145"> |
+|                                       [@SuranS2](https://github.com/SuranS2/)                                        |                                       [@HVLOSHIN](https://github.com/HVLOSHIN)                                       |                                         [@hthoon](https://github.com/hthoon)                                         |                                         [@soooii](https://github.com/soooii)                                         |                                       [@homi5435](https://github.com/homi5435)                                       |
 
 ---
 ## 👋 3. 역할 분담
 ### 고준수
-   - UI
-     - 아티스트 공연 정보 페이지
-   - 기능
-     - 아티스트 공연 데이터 수집
-     - 아티스트 공연 데이터 등록
+- UI
+  - 아티스트 공연 정보 페이지
+- 기능
+  - 아티스트 공연 데이터 수집
+  - 아티스트 공연 데이터 등록
 
 ### 신영광
 - UI
-   - 링크 관리 페이지
-   - 공유 링크 페이지
-   - 유저 프로필 설정
+  - 링크 관리 페이지
+  - 공유 링크 페이지
+  - 유저 프로필 설정
 - 기능
-   - 링크 생성 및 관리
-   - 프로필 커스텀
+  - 링크 생성 및 관리
+  - 프로필 커스텀
 
 ### 현태훈
 - UI
-   - 로그인 페이지
+  - 로그인 페이지
 - 기능
-   - 로그인
-   - 즐겨찾기
-   - 로그아웃
+  - 로그인
+  - 즐겨찾기
+  - 로그아웃
 
 ### 안송희
 - UI
-   - 아티스트 뉴스 정보 페이지
+  - 아티스트 뉴스 정보 페이지
 - 기능
-   - 아티스트 뉴스 데이터 수집
-   - 아티스트 뉴스 요약 등록
+  - 아티스트 뉴스 데이터 수집
+  - 아티스트 뉴스 요약 등록
 
 ### 유호성
 - UI
-   - 링크 정보 분석 페이지
+  - 링크 정보 분석 페이지
 - 기능
-   - 링크 정보 데이터 수집
-   - 링크 정보 분석
+  - 링크 정보 데이터 수집
+  - 링크 정보 분석
 
 ---
 
@@ -103,12 +103,14 @@
 
 ### BackEnd
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" height="27.5">
+<img src="https://img.shields.io/badge/Spring_Data_JPA-%236DB33F" height="27.5">
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://img.shields.io/badge/Query_DSL-%2300A8E1" height="27.5">
+
 
 ### IDE
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -150,13 +152,13 @@
 
 | 링크 분석 화면                                                                                                 |
 |----------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/user-attachments/assets/3bef1854-b6e0-4143-b9a2-79fe73af2ba2" height="150"> |
+| <img src="https://github.com/user-attachments/assets/40a41134-7fb0-43e0-a548-cf2e497b0566" height="150"> |
 
 ### 5) 마이페이지
 
 | 마이페이지 화면                                                                                                 |
 |----------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/user-attachments/assets/63e2acce-d308-47bf-9f99-8215ecd6d772" height="150"> |
+| <img src="" height="150"> |
 
 ### 6) 공유 링크 화면
 
